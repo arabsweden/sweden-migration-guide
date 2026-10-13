@@ -1,0 +1,8 @@
+{
+  "name": "هجرة السويد - دليلك الكامل",
+  "description": "A mobile-first podcast application in Arabic explaining Swedish immigration laws and residence permits.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
